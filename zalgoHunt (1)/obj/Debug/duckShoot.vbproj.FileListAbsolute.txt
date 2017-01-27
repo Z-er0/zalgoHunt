@@ -1,0 +1,12 @@
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\bin\Debug\duckShoot.exe.config
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\bin\Debug\duckShoot.exe
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\bin\Debug\duckShoot.pdb
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\bin\Debug\duckShoot.xml
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\obj\Debug\duckShoot.vbprojResolveAssemblyReference.cache
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\obj\Debug\duckShoot.frmTitleScreen.resources
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\obj\Debug\duckShoot.Resources.resources
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\obj\Debug\duckShoot.vbproj.GenerateResource.Cache
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\obj\Debug\duckShoot.exe
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\obj\Debug\duckShoot.xml
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\obj\Debug\duckShoot.pdb
+C:\Users\zacharym44\AppData\Local\Temporary Projects\duckShoot\obj\Debug\duckShoot.frmZalgoHunt.resources

@@ -1,0 +1,38 @@
+H:\VB\zalgoHunt\zalgoHunt\bin\Debug\zalgoHunt.exe.config
+C:\Users\larry\Downloads\zalgoHunt\bin\Debug\zalgoHunt.exe.config
+C:\Users\larry\Downloads\zalgoHunt\bin\Debug\zalgoHunt.exe
+C:\Users\larry\Downloads\zalgoHunt\bin\Debug\zalgoHunt.pdb
+C:\Users\larry\Downloads\zalgoHunt\bin\Debug\zalgoHunt.xml
+C:\Users\larry\Downloads\zalgoHunt\obj\Debug\zalgoHunt.vbprojResolveAssemblyReference.cache
+C:\Users\larry\Downloads\zalgoHunt\obj\Debug\duckShoot.frmTitleScreen.resources
+C:\Users\larry\Downloads\zalgoHunt\obj\Debug\duckShoot.frmZalgoHunt.resources
+C:\Users\larry\Downloads\zalgoHunt\obj\Debug\duckShoot.Resources.resources
+C:\Users\larry\Downloads\zalgoHunt\obj\Debug\zalgoHunt.vbproj.GenerateResource.Cache
+C:\Users\larry\Downloads\zalgoHunt\obj\Debug\zalgoHunt.exe
+C:\Users\larry\Downloads\zalgoHunt\obj\Debug\zalgoHunt.xml
+C:\Users\larry\Downloads\zalgoHunt\obj\Debug\zalgoHunt.pdb
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\bin\Debug\zalgoHunt.exe.config
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\obj\Debug\zalgoHunt.exe
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\obj\Debug\zalgoHunt.xml
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\obj\Debug\zalgoHunt.pdb
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\bin\Debug\zalgoHunt.exe
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\bin\Debug\zalgoHunt.pdb
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\bin\Debug\zalgoHunt.xml
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\obj\Debug\zalgoHunt.vbprojResolveAssemblyReference.cache
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\obj\Debug\duckShoot.frmTitleScreen.resources
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\obj\Debug\duckShoot.frmZalgoHunt.resources
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\obj\Debug\duckShoot.Resources.resources
+C:\Users\zacharym44\Downloads\zalgoHunt\zalgoHunt\obj\Debug\zalgoHunt.vbproj.GenerateResource.Cache
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\bin\Debug\zalgoHunt.exe.config
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\obj\Debug\zalgoHunt.exe
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\obj\Debug\zalgoHunt.xml
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\obj\Debug\zalgoHunt.pdb
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\obj\Debug\zalgoHunt.vbprojResolveAssemblyReference.cache
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\obj\Debug\duckShoot.frmTitleScreen.resources
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\obj\Debug\duckShoot.frmZalgoHunt.resources
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\obj\Debug\duckShoot.frmShoppe.resources
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\obj\Debug\duckShoot.Resources.resources
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\obj\Debug\zalgoHunt.vbproj.GenerateResource.Cache
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\bin\Debug\zalgoHunt.exe
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\bin\Debug\zalgoHunt.pdb
+C:\Users\larry\Downloads\1 26 2017\zalgoHunt (1)\bin\Debug\zalgoHunt.xml
